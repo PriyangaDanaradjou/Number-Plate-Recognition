@@ -12,3 +12,7 @@ Algorithm for recognition of number plate and to do an OCR (Optical Character Re
 • The recognized characters are compared with the database for verification of vehicle.
 
 • It helps police authorities and other crime investigation departments to find whether the number plate is authorized or not.
+
+
+To import required packages:
+    -pip install requirements.txt
