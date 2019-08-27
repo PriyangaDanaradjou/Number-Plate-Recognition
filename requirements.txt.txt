@@ -1,0 +1,10 @@
+tensorflow
+os==windows
+pandas
+io
+mathematics
+functools
+json
+glob
+xml.etree.ElementTree
+sys
